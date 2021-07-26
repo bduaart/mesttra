@@ -1,0 +1,6 @@
+#Problem name: Simple Product
+#Resolved by: Bruno Duarte
+n1 = int(input())
+n2 = int(input())
+prod = n1 * n2
+print("PROD = {}".format(prod))
