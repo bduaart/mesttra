@@ -6,7 +6,7 @@ print(f'Área do trapézio é: {((basMaior+basMenor)*alturaTrapezio) / 2:.2f}')
 
 print('\nÁrea do quadrado')
 lado = int(input('Informe o valor de um dos lados: '))
-print(f'Área do Quadrado é {4*lado:.2f}')
+print(f'Área do Quadrado é {lado*lado:.2f}')
 
 print('\nÁrea do retângulo')
 largura = int(input('Informe o valor da largura: '))

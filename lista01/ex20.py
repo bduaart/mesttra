@@ -1,6 +1,6 @@
 paoVend = int(input('Digite a quantidade de pães vendidos: '))
 broasVend = int(input('Digite a quantidade de broas vendidos: '))
-reforma = int(input('Digite o valor da reforma: '))
+reforma = float(input('Digite o valor da reforma: '))
 
 totalBroas = broasVend * 1.50
 totalPaes = paoVend * 0.12
