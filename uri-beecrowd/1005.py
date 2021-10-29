@@ -1,0 +1,7 @@
+#Problem name: Average 1
+#Resolved by: Bruno Duarte
+a = float(input())
+b = float(input())
+
+media = (a*3.5+b*7.5)/11
+print('MEDIA = {:.5f}'.format(media))
